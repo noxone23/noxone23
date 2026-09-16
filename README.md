@@ -1,4 +1,4 @@
-<h6>Hey, ich bin Bernhard Fürschke! 👋<h6>
+<h2>Hey, ich bin Bernhard Fürschke! 👋<h2>
 
 🎨 Grafikdesigner + 💻 Angehender Web Developer
 
