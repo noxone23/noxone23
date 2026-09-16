@@ -1,6 +1,8 @@
 Hey, ich bin Bernhard Fürschke! 👋
 
 🎨 Grafikdesigner + 💻 Angehender Web Developer
+
+<br>
 <!--
 **noxone23/noxone23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
