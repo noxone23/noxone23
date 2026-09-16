@@ -4,11 +4,11 @@
 
 <h6>Skills</h6>
 
-<p align="left">
+<!--<p align="left">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-</p>
+</p>-->
 
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,xd,figma,blender)](https://skillicons.dev)
 
