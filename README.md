@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,xd,figma,blender)](https://skillicons.dev)
 
 
 <!--
