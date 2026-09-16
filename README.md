@@ -2,7 +2,7 @@
 
 <h6>🎨 Graphic Designer + 💻 Future Web Developer</h6>
 
-<h6>Skills</h6>
+<h2>Skills</h2>
 
 <!--<p align="left">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
