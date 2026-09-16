@@ -1,8 +1,8 @@
 <h2>Hey, ich bin Bernhard Fürschke! 👋<h2>
 
-🎨 Grafikdesigner + 💻 Angehender Web Developer
+<h6>🎨 Grafikdesigner + 💻 Angehender Web Developer</h6>
 
-<h2>Skills</h2>
+Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
