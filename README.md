@@ -1,6 +1,6 @@
 <h2>Hey, I'm Bernhard! 👋</h2>
 
-<h6>🎨 Grafikdesigner + 💻 Angehender Web Developer</h6>
+<h6>🎨 Graphic Designer + 💻 Future Web Developer</h6>
 
 <h6>Skills</h6>
 
