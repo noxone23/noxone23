@@ -1,8 +1,17 @@
-Hey, ich bin Bernhard Fürschke! 👋
+<h6>Hey, ich bin Bernhard Fürschke! 👋<h6>
 
 🎨 Grafikdesigner + 💻 Angehender Web Developer
 
-<br>
+<h2>🎨 Skills</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+</p>
+
+
+
 <!--
 **noxone23/noxone23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
